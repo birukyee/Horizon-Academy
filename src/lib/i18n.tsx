@@ -19,7 +19,7 @@ export const t: Dict = {
   "hero.title": { en: "Where Bright Minds Begin", am: "የብሩህ አእምሮዎች መነሻ" },
   "hero.subtitle": {
     en: "Horizon Academy nurtures curious learners with joyful classrooms, caring teachers, and a love for discovery.",
-    am: "የሆራይዘን አካዳሚ ተማሪዎችን በደስታ የተሞላ ትምህርት ቤት፣ አሳቢ መምህራን እና የመማር ፍላጎት ያዳብራል።",
+    am: "የሆራይዘን አካዳሚ የማወቅ ጉጉት ያላቸው ተማሪዎችን በሚያስደስቱ ክፍሎች፣ አሳቢ መምህራን እና የመማር ፍላጎት ያዳብራል።",
   },
   "hero.cta": { en: "Visit the Campus", am: "ካምፓሱን ይጎብኙ" },
   "hero.cta2": { en: "Our Programs", am: "ፕሮግራሞቻችን" },
@@ -65,7 +65,7 @@ export const t: Dict = {
   "contact.eyebrow": { en: "Get In Touch", am: "ያግኙን" },
   "contact.title": { en: "Visit Us or Send a Message", am: "ይጎብኙን ወይም መልዕክት ይላኩ" },
   "contact.address.label": { en: "Address", am: "አድራሻ" },
-  "contact.address.value": { en: "Gelan, Woreda 4, Lefto", am: "ገላን ወረዳ 4 ለፍቶ" },
+  "contact.address.value": { en: "Gelan, Woreda 4", am: "ገላን ወረዳ 4 " },
   "contact.phone.label": { en: "Phone", am: "ስልክ" },
   "contact.hours.label": { en: "School Hours", am: "የትምህርት ሰዓት" },
   "contact.hours.value": { en: "Mon – Fri, 8:00 AM – 4:00 PM", am: "ሰኞ – አርብ፣ 2:00 – 10:00 ሰዓት" },

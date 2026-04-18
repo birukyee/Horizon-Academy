@@ -26,7 +26,7 @@ const Contact = () => {
     {
       icon: Phone,
       label: tr("contact.phone.label"),
-      value: "0913-000055 · 0966-706126",
+      value: "0913-000055 , 0966-706126",
       color: "bg-accent text-accent-foreground",
     },
     {
